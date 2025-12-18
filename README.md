@@ -11,7 +11,7 @@
 
 ## 👩‍💻 Profile
 
-I am a Computer Science student with a strong interest in **startup-style engineering**, where developers take ownership of problems end-to-end.
+I am an Information Science student with a strong interest in **startup-style engineering**, where developers take ownership of problems end-to-end.
 
 I focus on building **functional, extensible systems**—from backend APIs to ML workflows—rather than isolated demos.  
 My approach prioritizes **clarity, correctness, and practical decision-making**.
